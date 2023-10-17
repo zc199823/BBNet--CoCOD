@@ -17,7 +17,7 @@
     Figure 2:  Taxonomic structure of our proposed dataset, which illustrates the histogram distribution for the 5 super-classes and 70 sub-classes in our CoCOD8K.
     </em>
 </p>
-CoCOD8K can be download from here(https://pan.quark.cn/s/5bdc87f4e0c0)
+CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)
 
 ## 2. Overview
 

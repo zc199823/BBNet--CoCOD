@@ -1,7 +1,7 @@
 # <p align=center>`Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark (IEEE TNNLS)`</p>
 
 > **Authors:** 
-> [Cong Zhang](https://github.com/zc199823/), Hong-Bp Bi, Tian-Zhu Xiang(https://github.com/visionxiang), Ran-Wan Wu(https://github.com/RanwanWu/), Jinghui Tong, Xiufang Wang
+> [Cong Zhang](https://github.com/zc199823/), Hong-Bp Bi, [Tian-Zhu Xiang](https://github.com/visionxiang), [Ran-Wan Wu](https://github.com/RanwanWu/), Jinghui Tong, Xiufang Wang
 
 ## 1. CoCOD8K
 

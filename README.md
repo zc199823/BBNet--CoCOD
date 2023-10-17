@@ -1,11 +1,11 @@
 # <p align=center>`Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark (IEEE TNNLS)`</p>
 
 > **Authors:** 
-> [Cong Zhang](https://github.com/zc199823/), Hong-Bp Bi, Tian-Zhu Xiang (https://github.com/visionxiang), Ran-Wan Wu (https://github.com/RanwanWu/), Jinghui Tong, Xiufang Wang
+> [Cong Zhang](https://github.com/zc199823/), Hong-Bp Bi, Tian-Zhu Xiang(https://github.com/visionxiang), Ran-Wan Wu(https://github.com/RanwanWu/), Jinghui Tong, Xiufang Wang
 
 ## 1. CoCOD8K
 
--We propose the first large-scale and challenging CoCOD dataset, termed CoCOD8K, which contains 8,528 high-resolution camouflaged images paired with corresponding binary mask annotations. This work provides a foundation for the CoCOD field and is expected to give a strong boost to growth in the COD community.
+-We propose the first large-scale and challenging CoCOD dataset, termed CoCOD8K, which contains 8,528 high-resolution camouflaged images paired with corresponding binary mask annotations. This work provides a foundation for the CoCOD field and is expected to give a strong boost to growth in the COD community.
 
 -Illustration of collaborative camouflaged object detection. 
 ![image](./Imgs/Instance.png)  
@@ -19,7 +19,7 @@
 </p>
 CoCOD8K can be download from here()
 
-##2. Overview
+## 2. Overview
 
 <p align="center">
     <img src="./imgs/BBNet.png"/> <br />

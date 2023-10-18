@@ -18,7 +18,7 @@
     </em>
 </p>
 
-CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)
+CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)[code:tdYx].
 
 ## 2. Overview
 
@@ -31,3 +31,24 @@ CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)
     segmentation (see Fig. 2 b).
     </em>
 </p>
+
+## 3. Proposed Framework
+3.1 Training/Testing
+The training and testing experiments are conducted using PyTorch with a single GeForce NVIDIA GTX 1080 Ti of 5 GB Memory.
+
+1. Prerequisites:
+
+Note that BBNet is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
+
+ + Creating a virtual environment in terminal: `conda create -n BBNet python=3.6`.
+ +  Installing necessary packages: [PyTorch > 1.1](https://pytorch.org/), [opencv-python](https://pypi.org/project/opencv-python/)
+
+2. Prepare the data:
+   + downloading testing dataset and moving it into `./Dataset/TestDataset/`.
+
+    + downloading training/validation dataset and move it into `./Dataset/TrainDataset/`.
+    
+    + downloading pre-trained weights and move it into `./pth/BBNet_pth.59`, 
+    which can be found in [here](https://pan.quark.cn/s/745d6a2983b0).
+    
+    + downloading Res2Net weights on ImageNet dataset [download link ](https://pan.quark.cn/s/617987709421).

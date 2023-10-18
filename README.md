@@ -12,7 +12,7 @@
    Figure 1:  Five image groups are from the proposed CoCOD8K datasets, which are (a) crawling insects, (b) cats, (c) toads, (d) frogfish, and (e) owls, respectively. 
 
 <p align="center">
-    <img src="./imgs/CoCOD8K.png"/> <br />
+    <img src="./Imgs/CoCOD8K.png"/> <br />
     <em> 
     Figure 2:  Taxonomic structure of our proposed dataset, which illustrates the histogram distribution for the 5 super-classes and 70 sub-classes in our CoCOD8K.
     </em>
@@ -23,12 +23,9 @@ CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)[code:td
 ## 2. Overview
 
 <p align="center">
-    <img src="./imgs/BBNet.png"/> <br />
+    <img src="./Imgs/BBNet.png"/> <br />
     <em> 
-    Figure 3: Task relationship. One of the most popular directions in computer vision is generic object detection. 
-    Note that generic objects can be either salient or camouflaged; camouflaged objects can be seen as difficult cases of 
-    generic objects. Typical generic object detection tasks include semantic segmentation and panoptic 
-    segmentation (see Fig. 2 b).
+    Figure 3: An overview of our proposed BBNet. Specifically, our model contains three main modules, i.e., collaborative feature extraction (CFE), object feature search (OFS), and local-global refinement (LGR). The CFE and OFS modules are designed to explore subtle camouflaged object cues (f^{col} and f^{obj} ) from within image groups and within images, respectively. These two features are then integrated, and the LGR module is devised to enhance the representation of co-camouflaged features from both global and local perspectives. Combining the co-camouflaged feature (f^{lgr}) with backbone features (f3 and f4) via two simple decoders, the model provides accurate camouflaged object predictions from the given images. ×n denotes n iterations.).
     </em>
 </p>
 

@@ -9,7 +9,7 @@
 
 -Illustration of collaborative camouflaged object detection. 
 ![image](./Imgs/Instance.png)  
-   Figure 1  Five image groups are from the proposed CoCOD8K datasets, which are (a) crawling insects, (b) cats, (c) toads, (d) frogfish, and (e) owls, respectively. 
+   Figure 1:  Five image groups are from the proposed CoCOD8K datasets, which are (a) crawling insects, (b) cats, (c) toads, (d) frogfish, and (e) owls, respectively. 
 
 <p align="center">
     <img src="./imgs/CoCOD8K.png"/> <br />
@@ -25,7 +25,7 @@ CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0)[code:td
 <p align="center">
     <img src="./imgs/BBNet.png"/> <br />
     <em> 
-    Figure 1: Task relationship. One of the most popular directions in computer vision is generic object detection. 
+    Figure 3: Task relationship. One of the most popular directions in computer vision is generic object detection. 
     Note that generic objects can be either salient or camouflaged; camouflaged objects can be seen as difficult cases of 
     generic objects. Typical generic object detection tasks include semantic segmentation and panoptic 
     segmentation (see Fig. 2 b).

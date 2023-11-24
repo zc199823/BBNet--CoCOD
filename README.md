@@ -73,9 +73,11 @@ If you find this project useful, please consider citing:
     @article{zhang2023collaborative,
     title={Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark},
     author={Zhang, Cong and Bi, Hongbo and Xiang, Tian-Zhu and Wu, Ranwan and Tong, Jinghui and Wang, Xiufang},
-    journal={arXiv preprint arXiv:2310.04253},
+    journal={IEEE Transactions on Neural Networks and Learning Systems},
+    pages={1-15},
+    doi={10.1109/TNNLS.2023.3317091},
     year={2023}
     }
 
-    
+
 
